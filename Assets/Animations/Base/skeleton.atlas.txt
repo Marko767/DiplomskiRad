@@ -1,0 +1,114 @@
+skeleton.png
+size:2048,256
+filter:Linear,Linear
+pma:true
+spine archer/head
+bounds:1298,113,141,168
+rotate:90
+spine archer/left arm lower
+bounds:1611,52,68,69
+spine duelist/left arm lower
+bounds:1611,52,68,69
+spine main 2/left arm lower
+bounds:1611,52,68,69
+spine archer/left arm upper
+bounds:584,11,45,99
+rotate:90
+spine duelist/left arm upper
+bounds:584,11,45,99
+rotate:90
+spine main 2/left arm upper
+bounds:584,11,45,99
+rotate:90
+spine archer/left leg foot
+bounds:1681,52,91,38
+rotate:90
+spine archer/left leg lower
+bounds:1468,114,47,82
+rotate:90
+spine archer/left leg upper
+bounds:1011,6,101,104
+spine archer/left shoulder
+bounds:1552,123,82,47
+spine archer/right arm lower
+bounds:685,16,69,116
+rotate:90
+spine duelist/right arm lower
+bounds:685,16,69,116
+rotate:90
+spine main 2/right arm lower
+bounds:685,16,69,116
+rotate:90
+spine archer/right arm upper
+bounds:1415,5,70,106
+spine duelist/right arm upper
+bounds:1415,5,70,106
+spine main 2/right arm upper
+bounds:1415,5,70,106
+spine archer/right leg foot
+bounds:1799,215,72,39
+spine archer/right leg lower
+bounds:1487,18,60,94
+spine archer/right leg upper
+bounds:803,2,93,102
+rotate:90
+spine archer/right shoulder
+bounds:402,5,89,51
+spine archer/sword
+bounds:2,7,234,247
+spine archer/torso
+bounds:1788,7,158,142
+rotate:90
+spine duelist/head
+bounds:792,97,157,156
+rotate:90
+spine duelist/left leg foot
+bounds:1695,12,91,38
+spine duelist/left leg lower
+bounds:1611,3,47,82
+rotate:90
+spine duelist/left leg upper
+bounds:1114,6,101,104
+spine duelist/left shoulder
+bounds:1547,172,82,70
+rotate:90
+spine duelist/right leg foot
+bounds:1721,93,72,39
+rotate:90
+spine duelist/right leg lower
+bounds:1549,18,60,94
+spine duelist/right leg upper
+bounds:907,2,93,102
+rotate:90
+spine duelist/right shoulder
+bounds:1468,163,91,77
+rotate:90
+spine duelist/sword
+bounds:591,87,199,167
+spine duelist/torso
+bounds:950,112,172,142
+spine main 2/head
+bounds:238,7,247,162
+rotate:90
+spine main 2/left leg foot
+bounds:1720,167,91,38
+spine main 2/left leg lower
+bounds:1636,145,47,82
+rotate:90
+spine main 2/left leg upper
+bounds:1217,6,101,104
+spine main 2/left shoulder
+bounds:1715,207,82,47
+spine main 2/right leg foot
+bounds:1813,174,72,39
+spine main 2/right leg lower
+bounds:1619,194,60,94
+rotate:90
+spine main 2/right leg upper
+bounds:1320,9,93,102
+spine main 2/right shoulder
+bounds:493,5,89,51
+spine main 2/sword
+bounds:402,58,187,196
+spine main 2/torso
+bounds:1124,112,172,142

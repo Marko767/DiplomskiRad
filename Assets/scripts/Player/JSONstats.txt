@@ -1,0 +1,1 @@
+{"HP":100,"ATK":13,"DEF":13,"SPD":10,"Level":3,"talentCurrency":55,"shopCurrency":10,"noPotions":2,"ATKtalents":0,"DEFtalents":0,"HPtalents":0,"SPDtalents":0,"exp":0}
